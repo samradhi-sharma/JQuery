@@ -1,0 +1,4 @@
+JQuery
+. Its a lightweight library to write code in JS.
+. Makes writing code lot simpler and easier
+. works around multiple browsers
